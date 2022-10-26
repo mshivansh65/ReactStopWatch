@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background: rgb(33, 36, 0);
+  background: linear-gradient(
+    90deg,
+    rgba(33, 36, 0, 1) 0%,
+    rgba(72, 121, 9, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  color: #fff;
+}
+button {
+  background-color: rgba(255, 255, 255, 0.7);
+  border: none;
+  padding: 0.8rem;
+  border-radius: 10px;
+  font-weight: bold;
+}
